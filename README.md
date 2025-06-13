@@ -1,9 +1,6 @@
 # tablasi
 <html>
 <head> 
-<title> tablas</title>
-<head> 
-<title> tablas</title>
 </head>
 <body>
 <h1> tablas</h1>
